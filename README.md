@@ -22,3 +22,4 @@ You can open the web application by running the `:composeApp:wasmJsBrowserDevelo
 
 ## Link
 - [tz db](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
+- [Flag CDN](https://flagcdn.com/)
